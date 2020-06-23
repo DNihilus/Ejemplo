@@ -21,8 +21,8 @@ Otro comando
 Ya hacer referencias a [Sitios Web](http://verikosesi.rf.gd)
 
 O enlistar cosas:
--Elemento 1
--Elemento 2
--Elemento 3
+- Elemento 1
+- Elemento 2
+- Elemento 3
 
-Y algunos trucos :shipit:
+Y algunos trucos :shipit: :honeybee:
