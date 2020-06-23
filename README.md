@@ -13,10 +13,10 @@ Citar a alguien:
 > Esto bien lo decía mi madre...
 
 Mencionar comandos enlistados
-'''
+´´´
 Aquí los comandos
 Otro comando
-'''
+´´´
 
 Ya hacer referencias a [Sitios Web](http://verikosesi.rf.gd)
 
